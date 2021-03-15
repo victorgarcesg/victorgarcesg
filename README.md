@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Victor Garcés
-- 👔 I'm a Software Engineer and a newbie writer
+- 👔 I'm a Software Engineer and a writer newbie
 - 🌱 Learning Cloud Computing.
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧
 - 💞️ Love to read books and play videogames

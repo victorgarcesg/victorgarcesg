@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Victor Garcés
 - 👔 I'm a Software Engineer and a writer newbie
 - 🌎 Exists somewhere in [Hashnode](https://victorgarcesg.hashnode.dev/)
-- 🌱 Studying for the AZ-204.
+- 🌱 Studying for the [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/).
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧
 - 💞️ Love to read books and play videogames
 - 📖 Currently Reading: "The Phoenix Project" by Gene Kim, Kevin Behr and George Spafford

@@ -4,7 +4,7 @@
 - 🌱 Studying for the [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/).
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧
 - 💞️ Love to read books and play videogames
-- 📖 Currently Reading: "The Phoenix Project" by Gene Kim, Kevin Behr and George Spafford
+- 📖 Currently Reading: "The Pragmatic Programmer" by Andrew Hunt, David Thomas
 
 <!---
 victorgarcesg/victorgarcesg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
